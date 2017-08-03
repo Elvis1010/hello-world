@@ -1,2 +1,5 @@
 # hello-world
-just another repository 
+
+Hi dear friends,
+This is Elvis, just getting started. I wish I could do better. 
+
